@@ -1,0 +1,13 @@
+scratch_mod
+    scratch-gui
+        project.json
+        src
+        ...
+    scratch-blocks
+        project.json
+        src
+        ...
+    scratch-vm
+        project.json
+        src
+        ...
